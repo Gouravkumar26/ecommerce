@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Sidebar from "./assets/components/Sidebar";
-import SignIn from "./assets/components/pages/Signin";
-import SignUp from "./assets/components/pages/Signup";
+import SignIn from "./assets/components/pages/SignIn";
+import SignUp from "./assets/components/pages/SignUp";
 import OrdersPage from "./assets/components/pages/OrdersPages";
 import React from 'react'
 
